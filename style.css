@@ -1,0 +1,82 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px;
+    color: purple;
+    font-weight: bold;
+
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #1A237E;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+
+
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 36px;
+
+    cursor: pointer;
+    color: black;
+
+}
+
+#myname {
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+#bio {
+    background-color: darkturquoise;
+}
+
+.link:hover {
+    font-size: 25px;
+    background-color: darkturquoise;
+}
+
+.link {
+
+    padding-left: 20px;
+    padding-right: 23px;
+    display: inline;
+    font-size: 20px;
+}
+img{
+    vertical-align: middle;
+}
+#hobbies{
+    height: 400px;
+}
+
